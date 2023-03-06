@@ -55,7 +55,8 @@ Responsive media queries
 }
 
 .navbar-default {
-  background-color: #A020F0;
+ background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(204,101,255,1) 0%, rgba(174,59,187,1) 31%, rgba(94,15,154,1) 100%);
   border: 0px;
   padding: 20px 0;
   transition: all 0.3s;
