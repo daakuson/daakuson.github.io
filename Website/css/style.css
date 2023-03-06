@@ -182,7 +182,8 @@ Responsive media queries
 }
 
 #portfolio {
-  background-color: #e6d1ff;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(248,197,254,1) 31%, rgba(110,88,173,1) 72%);
 }
 
 .grid-padding {
